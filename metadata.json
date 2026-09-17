@@ -1,0 +1,7 @@
+{
+  "name": "Joy Assistant",
+  "description": "Real-time voice assistant Joy with Gemini Live audio streaming, wake-word activation, and native device controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
